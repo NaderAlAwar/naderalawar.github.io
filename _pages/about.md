@@ -18,7 +18,11 @@ University of Beirut](https://www.aub.edu.lb/) in 2019.
 ### Publications
 
 *A Performance Portability Framework for Python*\
-**Nader Al Awar**, Steven Zhu, George Biros, and Milos Gligoric.\
+**Nader Al Awar**, Steven Zhu, George Biros, and Milos Gligoric\
 International Conference on Supercomputing\
-(ICS ’21), June 14–17, 2021, Virtual Event, USA.
+(ICS ’21), June 14–17, 2021, Virtual Event, USA
 
+*How Effective are Existing Java API Specifications for Finding Bugs during Runtime Verification?*\
+Owolabi Legunsen, **Nader Al Awar**, Xinyue Xu, Wajih Ul Hassan, Grigore Roşu, Darko Marinov\
+Automated Software Engineering Journal\
+(JASE 2019), 26(4): 795-837, December 2019
