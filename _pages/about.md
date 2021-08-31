@@ -17,18 +17,18 @@ University of Beirut](https://www.aub.edu.lb/) in 2019.
 
 ### Publications
 
-**Nader Al Awar**, Kush Jain, Christopher J. Rossbach, and Milos Gligoric\
 *Programming and Execution Models for Parallel Bounded Exhaustive Testing*\
+**Nader Al Awar**, Kush Jain, Christopher J. Rossbach, and Milos Gligoric\
 Conference on Object-Oriented Programming, Systems, Languages, and Applications\
 (OOPSLA 2021), to appear, October 17-22, 2021, Chicago, USA
 
-Steven Zhu, **Nader Al Awar**, Mattan Erez, and Milos Gligoric\
 *Dynamic Generation of Python Bindings for HPC Kernels*\
+Steven Zhu, **Nader Al Awar**, Mattan Erez, and Milos Gligoric\
 International Conference on Automated Software Engineering\
 (ASE 2021), to appear, Virtual, November 2021.
 
-Christian Trott, Luc Berger-Vergiat, David Poliakoff, Sivasankaran Rajamanickam, Damien Lebrun-Grandie, Jonathan Madsen, **Nader Al Awar**, Milos Gligoric, Galen Shipman, and Geoff Womeldorff\
 *The Kokkos EcoSystem: Comprehensive Performance Portability For High Performance Computing*\
+Christian Trott, Luc Berger-Vergiat, David Poliakoff, Sivasankaran Rajamanickam, Damien Lebrun-Grandie, Jonathan Madsen, **Nader Al Awar**, Milos Gligoric, Galen Shipman, and Geoff Womeldorff\
 Computing in Science and Engineering\
 (CISESI 2021), pages 1-9, November 2021.
 
