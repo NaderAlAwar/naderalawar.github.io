@@ -32,7 +32,7 @@ Christian Trott, Luc Berger-Vergiat, David Poliakoff, Sivasankaran Rajamanickam,
 Computing in Science and Engineering\
 (CISESI 2021), pages 1-9, November 2021.
 
-[*A Performance Portability Framework for Python*](AlAwarETAL21PyKokkos.pdf)\
+[*A Performance Portability Framework for Python*](https://naderalawar.github.io/files/AlAwarETAL21PyKokkos.pdf)\
 **Nader Al Awar**, Steven Zhu, George Biros, and Milos Gligoric\
 International Conference on Supercomputing\
 (ICS ’21), June 14–17, 2021, Virtual Event, USA\
