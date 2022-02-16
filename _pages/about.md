@@ -17,6 +17,11 @@ University of Beirut](https://www.aub.edu.lb/) in 2019.
 
 ### Publications
 
+*PyKokkos: Performance Portable Kernels in Python*\
+**Nader Al Awar**, Neil Mehta, Steven Zhu, George Biros, and Milos Gligoric\
+International Conference on Software Engineering, Tool Demonstrations Track\
+(ICSE Demo 2022), to appear, May 21-29, Pittsburgh, USA
+
 *Programming and Execution Models for Parallel Bounded Exhaustive Testing*\
 **Nader Al Awar**, Kush Jain, Christopher J. Rossbach, and Milos Gligoric\
 Conference on Object-Oriented Programming, Systems, Languages, and Applications\
