@@ -17,7 +17,7 @@ University of Beirut](https://www.aub.edu.lb/) in 2019.
 
 ### Publications
 
-*PyKokkos: Performance Portable Kernels in Python*\
+[*PyKokkos: Performance Portable Kernels in Python*](https://naderalawar.github.io/files/AlAwarETAL22PyKokkosTool.pdf)\
 **Nader Al Awar**, Neil Mehta, Steven Zhu, George Biros, and Milos Gligoric\
 International Conference on Software Engineering, Tool Demonstrations Track\
 (ICSE Demo 2022), to appear, May 21-29, Pittsburgh, USA
