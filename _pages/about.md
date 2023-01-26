@@ -17,20 +17,25 @@ University of Beirut](https://www.aub.edu.lb/) in 2019.
 
 ### Publications
 
+A Multi-GPU Python Solver for Low-Temperature Non-Equilibrium Plasmas\
+James Almgren-Bell, **Nader Al Awar**, Dilip Geethakrishnan, Milos Gligoric, and George Biros\
+International Symposium on Computer Architecture and High Performance Computing\
+(SBACPAD 2022), pages 140-149, November 2-4, Bordeaux, France
+
 [*PyKokkos: Performance Portable Kernels in Python*](https://naderalawar.github.io/files/AlAwarETAL22PyKokkosTool.pdf)\
 **Nader Al Awar**, Neil Mehta, Steven Zhu, George Biros, and Milos Gligoric\
 International Conference on Software Engineering, Tool Demonstrations Track\
-(ICSE Demo 2022), to appear, May 21-29, Pittsburgh, USA
+(ICSE Demo 2022), pages 164-167, May 21-29, Pittsburgh, USA
 
 *Programming and Execution Models for Parallel Bounded Exhaustive Testing*\
 **Nader Al Awar**, Kush Jain, Christopher J. Rossbach, and Milos Gligoric\
 Conference on Object-Oriented Programming, Systems, Languages, and Applications\
-(OOPSLA 2021), to appear, October 17-22, 2021, Chicago, USA
+(OOPSLA 2021), pages 1-28, October 17-22, 2021, Chicago, USA
 
 *Dynamic Generation of Python Bindings for HPC Kernels*\
 Steven Zhu, **Nader Al Awar**, Mattan Erez, and Milos Gligoric\
 International Conference on Automated Software Engineering\
-(ASE 2021), to appear, Virtual, November 2021.
+(ASE 2021), pages 92-103, Virtual, November 2021.
 
 *The Kokkos EcoSystem: Comprehensive Performance Portability For High Performance Computing*\
 Christian Trott, Luc Berger-Vergiat, David Poliakoff, Sivasankaran Rajamanickam, Damien Lebrun-Grandie, Jonathan Madsen, **Nader Al Awar**, Milos Gligoric, Galen Shipman, and Geoff Womeldorff\
