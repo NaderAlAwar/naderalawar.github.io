@@ -8,16 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Electrical and Computer
+I am a fourth year PhD student in the Electrical and Computer
 Engineering department at The University of Texas at Austin, advised
 by [Prof. Milos Gligoric](http://users.ece.utexas.edu/~gligoric/). I am
-interested in High Performance Computing and Software Engineering. I
-completed my undergraduate degree in the ECE department at [The American
-University of Beirut](https://www.aub.edu.lb/) in 2019.
+interested in Compilers, High Performance Computing, and Software Engineering.
+
+I am the lead developer of [PyKokkos](https://github.com/kokkos/pykokkos), a
+Python framework for writing performance portable kernels in Python. Using PyKokkos,
+I have written high-performance software entirely in Python, including a Python
+port of [ExaMiniMD](https://github.com/kokkos/pykokkos/tree/main/examples/ExaMiniMD/standalone)
+a [molecular dynamics mini application](https://github.com/ECP-copa/ExaMiniMD),
+a [particle-in-cell (PIC) solver](https://ieeexplore.ieee.org/document/9980962)
+of the electron Boltzmann equation, and various [machine learning](https://github.com/kokkos/pykokkos/tree/main/examples/NaiveBayes)
+[algorithms](https://github.com/kokkos/pykokkos/tree/main/examples/LogisticRegression).
+More recently, I have been working on lazy evaluation and kernel fusion for PyKokkos.
+
+My other work includes [Tempo](https://dl.acm.org/doi/10.1145/3485543), a CUDA framework
+for writing test generation programs, and [WayOut](https://github.com/EngineeringSoftware/wayout)
+a framework for automatic generation of Python language bindings for C++ code.
 
 ### Publications
 
-A Multi-GPU Python Solver for Low-Temperature Non-Equilibrium Plasmas\
+*A Multi-GPU Python Solver for Low-Temperature Non-Equilibrium Plasmas*\
 James Almgren-Bell, **Nader Al Awar**, Dilip Geethakrishnan, Milos Gligoric, and George Biros\
 International Symposium on Computer Architecture and High Performance Computing\
 (SBACPAD 2022), pages 140-149, November 2-4, Bordeaux, France
