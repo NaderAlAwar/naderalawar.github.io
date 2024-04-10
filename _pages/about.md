@@ -27,6 +27,8 @@ My other work includes [Tempo](https://dl.acm.org/doi/10.1145/3485543), a CUDA f
 for writing test generation programs, and [WayOut](https://github.com/EngineeringSoftware/wayout)
 a framework for automatic generation of Python language bindings for C++ code.
 
+I am on the job market in 2024, find my most recent resume [here](https://naderalawar.github.io/files/CV_AlAwar_2024.pdf).
+
 ### Publications
 
 *A Multi-GPU Python Solver for Low-Temperature Non-Equilibrium Plasmas*\
