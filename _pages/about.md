@@ -27,7 +27,7 @@ a tool to improve incremental compilation speed of C++ code.
 
 ### Publications
 
-[*High-Performance CUDA Ops in Python: JIT-Compiling CUB with cuda.compute*](https://github.com/NaderAlAwar/naderalawar.github.io/blob/master/files/High-Performance%20CUDA%20Ops%20in%20Python%2C%20JIT-Compiling%20CUB%20with%20cuda.compute.pdf)\
+[*High-Performance CUDA Ops in Python: JIT-Compiling CUB with cuda.compute*](https://naderalawar.github.io/files/High-Performance%20CUDA%20Ops%20in%20Python%2C%20JIT-Compiling%20CUB%20with%20cuda.compute.pdf)\
 Nader Al Awar\
 PyTorch Conference\
 (PTC 2025), Poster Presentations: Edge & Hardware Acceleration, October 22-23, 2025, San Francisco, USA
